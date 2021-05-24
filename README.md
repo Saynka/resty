@@ -7,10 +7,52 @@
 ### Links and Resources
 
 - [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
+<!-- - [back-end server url](http://xyz.com) (when applicable) -->
 - [front-end application](http://xyz.com) (when applicable)
 
 ### Setup
+
+.
+├── LICENSE
+├── README.md
+├── **tests**
+│ ├── App.test.js
+│ └── setupTests.js
+├── assets
+├── package-lock.json
+├── package.json
+├── public
+│ ├── favicon.ico
+│ ├── index.html
+│ ├── logo192.png
+│ ├── logo512.png
+│ ├── manifest.json
+│ └── robots.txt
+└── src
+├── App.js
+├── App.scss
+├── components
+│ ├── footer
+│ │ ├── Footer.js
+│ │ └── footer.scss
+│ ├── form
+│ │ ├── Form.js
+│ │ └── form.scss
+│ ├── header
+│ │ ├── Header.js
+│ │ └── header.scss
+│ ├── history
+│ │ ├── History.js
+│ │ └── history.scss
+│ └── results
+│ ├── Results.js
+│ └── results.scss
+├── index.js
+├── pages
+│ ├── Help.js
+│ ├── History.js
+│ └── Home.js
+└── reportWebVitals.js
 
 #### `.env` requirements (where applicable)
 
@@ -27,6 +69,7 @@
 
 #### How to initialize/run your application (where applicable)
 
+- `npm init`
 - `npm start`
 
 #### How to use your library (where applicable)
