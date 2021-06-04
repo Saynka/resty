@@ -7,6 +7,7 @@ import Footer from './components/footer/Footer.js';
 import Home from './pages/Home.js';
 import History from './pages/History.js';
 import Help from './pages/Help.js';
+import superagent from 'superagent';
 
 import './App.scss';
 
