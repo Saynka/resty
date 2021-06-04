@@ -2,7 +2,7 @@
 
 ## Project: Component Based UI
 
-### Author: Kale Lesko
+### Author: Kale Lesko, Anne Thorsteinson helped me with the test logic
 
 ### Links and Resources
 
